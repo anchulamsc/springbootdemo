@@ -1,0 +1,8 @@
+# Spring properties
+spring:
+  application:
+    name: springboodemoapp  # Identify this application
+ 
+# HTTP Server
+server:
+  port: 4444   # HTTP (Tomcat) port
